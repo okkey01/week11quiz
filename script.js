@@ -1,4 +1,4 @@
-// https://github.com/okkey01/week1quiz.git
+
 
 svg = document.getElementById('base-svg');
 //Set its width and height to chosen numbers. 
